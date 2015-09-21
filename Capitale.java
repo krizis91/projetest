@@ -1,4 +1,5 @@
-//capitale de chaque pays.
+//debut programme
+
 
 public class Capitale {
 	
