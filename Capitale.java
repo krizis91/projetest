@@ -1,4 +1,4 @@
-//capitale ...
+//capitale de chaque pays.
 
 public class Capitale {
 	
